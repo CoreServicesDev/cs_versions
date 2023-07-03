@@ -1,1 +1,1 @@
-cs_aduty
+cs_aduty = '1.9.0'
