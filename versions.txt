@@ -1,1 +1,2 @@
 cs_aduty = 1.9.0
+cs_aduty_xeno = 1.9.0
