@@ -1,3 +1,3 @@
 cs_aduty = '1.9.0'
-cs_carclear = '1.0.1'
+cs_carclear = '1.0.2'
 cs_namechange = '2.0.0'
