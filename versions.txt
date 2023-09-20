@@ -1,7 +1,7 @@
 cs_aduty = '1.9.3'
 cs_carclear = '1.0.2'
 cs_namechange = '2.0.0'
-cs_ingamevoice = '1.0.2'
+cs_ingamevoice = '2.0.0'
 cs_scoreboard = '1.1.0'
 cs_restrictedzone = '1.0.0'
 
