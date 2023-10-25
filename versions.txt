@@ -4,4 +4,4 @@ cs_namechange = '2.0.0'
 cs_ingamevoice = '2.0.0'
 cs_scoreboard = '1.1.0'
 cs_restrictedzone = '1.0.1'
-
+cs_garage = '1.0.0'
