@@ -1,4 +1,4 @@
-cs_aduty = '1.9.6'
+cs_aduty = '1.9.7'
 cs_carclear = '1.0.2'
 cs_namechange = '2.0.0'
 cs_ingamevoice = '2.0.0'
