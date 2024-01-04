@@ -9,4 +9,5 @@ cs_deathtimeout = '1.2.2'
 cs_savestatus = '2.0.1'
 cs_inventory = '1.0.0'
 cs_banking = '1.0.0'
+cs_deathscreen = '1.0.0'
 
