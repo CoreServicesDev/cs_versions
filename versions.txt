@@ -10,4 +10,5 @@ cs_savestatus = '2.0.1'
 cs_inventory = '1.0.0'
 cs_banking = '1.0.0'
 cs_deathscreen = '1.1.1'
+cs_atmrobbery = '1.0.0'
 
