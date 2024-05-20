@@ -12,4 +12,5 @@ cs_banking = '1.0.0'
 cs_deathscreen = '1.2.0'
 cs_atmrobbery = '1.0.0'
 cs_shops = '1.0.0'
+cs_menu_dialog = '1.0.0'
 
