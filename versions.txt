@@ -13,4 +13,6 @@ cs_deathscreen = '2.0.1'
 cs_atmrobbery = '1.0.0'
 cs_shops = '1.0.0'
 cs_menu_dialog = '1.0.0'
+cs_hud = '1.0.0'
+
 
