@@ -16,5 +16,5 @@ cs_menu_dialog = '1.0.0'
 cs_hud = '1.0.0'
 cs_visum = '1.0.0'
 cs_immigration = '1.0.0'
-
+cs_revivestation = '1.0.0'
 
